@@ -55,9 +55,9 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-SEZ7LZ6NZW
+    id: 
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: tripercy-bl
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -69,7 +69,7 @@ analytics:
 
 # Pageviews settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
