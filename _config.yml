@@ -16,7 +16,7 @@ timezone: Asia/Bangkok
 
 title: Blog của Trí # the main title
 
-tagline: Tripercy's personal blogging site # it will display as the sub-title
+tagline: Tripercy's personal blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Nơi mình chia sẻ những kiến thức mới học được, những trải nghiệm và suy nghĩ về lập trình, công nghệ và cuộc sống.
