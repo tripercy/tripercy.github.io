@@ -11,8 +11,8 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Trang chủ
-  categories: Các danh mục
-  tags: Các thẻ
+  categories: Danh mục
+  tags: Tags
   archives: Lưu trữ
   about: Giới thiệu
 
