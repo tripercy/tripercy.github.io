@@ -16,7 +16,7 @@ Mình chọn xây dựng và chia sẻ các bài viết như một cách ghi ch�
 # My contact?
 - Personal email: [percytri37@gmail.com](mailto:percytr37@gmail.com)
 - Work email: [tridp.workmail@gmail.com](mailto:tridp.workmail@gmail.com)
-- Github: [tripercy](github.com/tripercy)
+- Github: [tripercy](https://github.com/tripercy)
 
 # How was this blog built?
 Blog này được fork và chỉnh sửa từ repo [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
