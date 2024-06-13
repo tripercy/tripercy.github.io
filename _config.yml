@@ -115,12 +115,12 @@ comments:
   giscus:
     repo: tripercy/tripercy.github.io
     repo_id: R_kgDOMGkaPA
-    category: Announcements
-    category_id: DIC_kwDOMGkaPM4CgD3h
+    category: General
+    category_id: DIC_kwDOMI4udc4CgD46
     mapping: url
-    strict: 1
+    strict: 0
     input_position: top
-    lang: # optional, default to the value of `site.lang`
+    lang: vi
     reactions_enabled: 1
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
